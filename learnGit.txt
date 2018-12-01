@@ -1,3 +1,12 @@
 hello Git!
 
-learn branch next:  
+learn branch next: 
+
+1. git add .
+2. git status ------ to check 
+3. git commit -m "this is your commit msg, should be feature title"
+4. git push origin branch_name
+
+
+
+ 
